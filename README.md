@@ -1,6 +1,6 @@
 # ☁️ Guntupalli Vasudeva — Cloud & DevOps Engineer
 
-![Header](/.assets/banner.png)
+![Header](./assets/banner.png)
 
 **Cloud-Native Enthusiast | Infrastructure as Code Advocate | CI/CD Automator**
 
