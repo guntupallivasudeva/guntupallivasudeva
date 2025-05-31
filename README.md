@@ -58,9 +58,19 @@ I believe in **DevOps as culture**, not just a toolchain—where collaboration, 
 - 🏅 **Linux Foundation**
 
 ---
-<!--->
+
+
 ## 🚀 Key Projects
 
+#### 1. E-commerce Website - Full Stack Web Project
+#### 2. E-learning Platform with Cloud
+#### 3. Personal or private cloud storage using raspberry pi
+#### 4. AWS Cloud Networking Series
+#### 5. Aws Cloud Security Using EC2, IAM Policies, IAM Users Groups and Users & Account Alias
+#### 6. Aws Static WebHost Using S3 & Route53 & Static_webserver_using_EC2
+#### 7. Visualize_Data_using_Amazon_QuickSight
+
+<!--
 ### 🔐 [AWS Cloud Security Automation](https://github.com/<your-github-username>/aws-cloud-security)
 - Automated IAM policies, groups, EC2 roles using Bash & Python
 - Configured S3 with bucket policies and secure access control
@@ -72,7 +82,9 @@ I believe in **DevOps as culture**, not just a toolchain—where collaboration, 
 ### ☸️ [Kubernetes on AWS EKS using Terraform](https://github.com/<your-github-username>/eks-deployment)
 - Deployed full EKS cluster with Helm charts and HPA setup
 - Terraform-managed networking and Kubernetes manifests
---->
+
+-->
+
 ---
 
 ## 📈 GitHub Stats
