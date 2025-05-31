@@ -1,10 +1,8 @@
-## Hi there 👋
-
 # ☁️ Guntupalli Vasudeva — Cloud & DevOps Engineer
 
-![Header](./assets/banner.png)
+<img src="./assets/banner.png" alt="DevOps Banner" style="width:100%;"/>
 
-**Cloud-Native Enthusiast | Infrastructure as Code Advocate | CI/CD Automator**
+**Cloud & DevOps Enthusiast | Infrastructure as Code Advocate | CI/CD Automator**
 
 ---
 
@@ -16,54 +14,50 @@ With hands-on experience across **AWS, Azure, and GCP**, I bring together the be
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack with Logos
 
 ### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
 
 ### 🔧 Infrastructure as Code (IaC)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-3A4EC3?style=for-the-badge&logo=pulumi&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" />
 
 ### ⚙️ DevOps & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7C00?style=for-the-badge&logo=argo&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" />
 
 ### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
 
 ### 📈 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="40" />
 
 ---
 
 ## 🎓 Education
 
 - **B.Tech in Computer Science & Engineering**, Anurag University  
-  *2021 – 2025*
+  *2021 – 2025*  
   - Focus: Cloud Infrastructure, Security, Automation  
   - Projects: AWS Automation, CI/CD Pipelines
 
 - **Certifications**  
-  - AWS Certified Solutions Architect – Associate  
-  - Azure Fundamentals (AZ-900)  
+  - AWS Cloud Practitioner (CLF-C02)  
+  - Azure Fundamentals (AZ-900)
+  - Linux Foundations  
   - Terraform Associate (In Progress)  
-  - CKA (In Progress)
+  - CKA (In Progress)  
   - Git & GitHub Foundations  
   - GitHub Actions CI/CD  
-  - Docker & Kubernetes – Udemy
+  - Docker & Kubernetes – Udemy  
 
 ---
 
@@ -76,8 +70,6 @@ With hands-on experience across **AWS, Azure, and GCP**, I bring together the be
 
 ## 💼 Contact Me
 
-- 📧 Email: guntupallivasudeva@example.com  
+- 📧 Email: vasudevaguntupalli@gmail.com  
 - 🌐 Portfolio: https://your-portfolio-link.com  
-- 💬 LinkedIn: https://linkedin.com/in/guntupalli-vasudeva  
-
-
+- 💬 LinkedIn: https://linkedin.com/in/gvasudeva  
