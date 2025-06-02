@@ -23,7 +23,7 @@ Whether it’s building secure pipelines, managing infrastructure as code, or se
 - ⚙️ Proficient in container platforms like Docker and Kubernetes (EKS, AKS)
 - 🔐 Deep understanding of IAM, VPC, firewalls, security groups, and cloud governance
 - 📜 Infrastructure automation with Terraform, Ansible, and CloudFormation
-- 📊 End-to-end monitoring with Prometheus, Grafana, Datadog, and ELK Stack
+- 📊 End-to-end monitoring with Prometheus, Grafana  
 - 🔒 Cloud Security and compliance automation using best practices and tools like Trivy and Vault
 
 I believe in **DevOps as culture**, not just a toolchain—where collaboration, transparency, and continuous improvement drive engineering excellence.
