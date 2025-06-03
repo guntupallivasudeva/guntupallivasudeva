@@ -31,18 +31,150 @@ I believe in **DevOps as culture**, not just a toolchain—where collaboration, 
 ---
 
 ## 🛠️ Tech Stack
+ 
+<p align="center">
+  <table border="0" cellspacing="0" cellpadding="0" border-color:"white">
+    <tr>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:html5.svg" width="50px" alt="HTML5"/><br/>
+        <sub>HTML5</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:css3.svg" width="50px" alt="CSS3"/><br/>
+        <sub>CSS3</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:javascript.svg" width="50px" alt="JavaScript"/><br/>
+        <sub>JavaScript</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:java.svg" width="50px" alt="Java"/><br/>
+        <sub>Java</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:mysql.svg" width="50px" alt="MySQL"/><br/>
+        <sub>MySQL</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/skill-icons:github-dark.svg" width="50px" alt="AWS"/><br/>
+        <sub>GitHub</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:python.svg" width="50px" alt="Python"/><br/>
+        <sub>Python</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:git.svg" width="50px" alt="Git"/><br/>
+        <sub>Git</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:linux.svg" width="50px" alt="Linux"/><br/>
+        <sub>Linux</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/logos:bash-icon.svg" width="50px" alt="Bash"/><br/>
+        <sub>Bash</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:docker.svg" width="50px" alt="Docker"/><br/>
+        <sub>Docker</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:kubernetes.svg" width="50px" alt="Kubernetes"/><br/>
+        <sub>Kubernetes</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:terraform.svg" width="50px" alt="Terraform"/><br/>
+        <sub>Terraform</sub>
+      </td>
+      </tr>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:ansible.svg" width="50px" alt="Ansible"/><br/>
+        <sub>Ansible</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:jenkins.svg" width="50px" alt="Jenkins"/><br/>
+        <sub>Jenkins</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:githubactions.svg" width="50px" alt="AWS"/><br/>
+        <sub>GitHub Actions</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:bitbucket.svg" width="50px" alt="AWS"/><br/>
+        <sub>GitHub Actions</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:gitlab.svg" width="50px" alt="AWS"/><br/>
+        <sub>GitLab</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:argocd.svg" width="50px" alt="AWS"/><br/>
+        <sub>Argo CD</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:prometheus.svg" width="50px" alt="AWS"/><br/>
+        <sub>Prometheus</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:grafana.svg" width="50px" alt="AWS"/><br/>
+        <sub>Grafana</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:amazonwebservices-wordmark.svg" width="50px" alt="AWS"/><br/>
+        <sub>AWS</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:azure.svg" width="50px" alt="AWS"/><br/>
+        <sub>Azure</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:googlecloud.svg" width="50px" alt="AWS"/><br/>
+        <sub>Google Cloud</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:salesforce.svg" width="50px" alt="AWS"/><br/>
+        <sub>Salesforce</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:bootstrap.svg" width="50px" alt="AWS"/><br/>
+        <sub>Bootstrap</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:dynamodb.svg" width="50px" alt="DynamoDB"/><br/>
+        <sub>DynamoDB</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/logos:aws-iam.svg" width="50px" alt="MongoDB"/><br/>
+        <sub>IAM</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:go-wordmark.svg" width="50px" alt="Go"/><br/>
+        <sub>Go</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/logos:aws-ecs.svg" width="50px" alt="ECS"/><br/>
+        <sub>ECS</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/logos:aws-eks.svg" width="50px" alt="EKS"/><br/>
+        <sub>EKS</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://api.iconify.design/devicon:vscode.svg" width="50px" alt="vscode"/><br/>
+        <sub>VS Code</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-- Cloud: AWS, Azure, GCP
-- Containerization: Docker, Kubernetes, ECS, EKS
-- CI/CD: Jenkins, GitLab CI/CD, GitHub Actions, Bitbucket
-- Configuration Management: Ansible
-- IaC: Terraform, CDK
-- Monitoring: Prometheus, Grafana  
-- Scripting: Bash, Python
-- Programming: Golang
-- Version Control: Git, GitHub, GitLab, Bitbucket
-- Security: IAM
-- Other : Java, CSS3, HTML5, JavaScript, Servlets, My SQL, Databases, Salesforce
+  
+
+
+
 
 ---
 
