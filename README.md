@@ -1,9 +1,27 @@
 # ☁️ Guntupalli Vasudeva — Cloud & DevOps Engineer
-
-![Header](./assets/banner.png)
-
 **Cloud-Native Enthusiast | Infrastructure as Code Advocate | CI/CD Automator**
 
+<a href="#" target="blank"><img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="vasudeva guntupalli" height="450" width="450" /></a>
+- 🌱 I’m currently learning:- **Devops & Cloud**
+- 👯 I’m looking to collaborate on:- **Devops Project as a Freelancer**
+- 🤔 I’m looking for help with:- **Industry Leading Project ideas**
+- 💬 Ask me about:- **Cloud**
+- ⚡ Fun fact:- **Never fall in love with anything at the end you will never forget the details**
+- 🛰️ Space documentaries and DevOps = my weekend joy.
+- 💡 Motto: *Automate the boring. Secure the critical. Scale the impactful.*
+
+
+## 🎓 Education
+
+ 🎓 **B.Tech in Computer Science & Engineering**  
+  Institute: Anurag University, Hyderabad
+  Duration: [2021 – 2025]  
+  Relevant Coursework: Cloud Computing, DevOps, Operating Systems, Distributed Systems
+
+
+
+---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guntupallivasudeva" alt="guntupallivasudeva" /></a> </p>
 ---
 
 ## 🌟 Summary
@@ -27,6 +45,16 @@ Whether it’s building secure pipelines, managing infrastructure as code, or se
 - 🔒 Cloud Security and compliance automation using best practices and tools like Trivy and Vault
 
 I believe in **DevOps as culture**, not just a toolchain—where collaboration, transparency, and continuous improvement drive engineering excellence.
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gvasudeva" target="blank"><img align="center" src="https://api.iconify.design/logos:linkedin-icon.svg" alt="vasudeva guntupalli" height="30" width="40" /></a>
+<a href="https://medium.com/@vasudevaguntupalli" target="blank"><img align="center" src="https://api.iconify.design/logos:medium.svg" alt="guntupalli vasudeva" height="30" width="80" /></a>
+<a href="https://www.hackerrank.com/gvasudeva" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="vasudeva gutnupalli" height="30" width="40" /></a>
+ <a href="mailto:vasudevaguntupalli@gmail.com" target="blank"><img align="center" src="https://api.iconify.design/logos:google-gmail.svg" alt="vasudeva gutnupalli" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -175,18 +203,14 @@ I believe in **DevOps as culture**, not just a toolchain—where collaboration, 
 
 
 
-
 ---
 
 ## 📜 Certifications
 
 - 🏅 **AWS Certified Cloud practitioner-(CLF-C02)**
-- 🏅 **Terraform Associate – HashiCorp (In Progress)**
-- 🏅 **Certified Kubernetes Administrator (CKA) – In Progress**
 - 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 🏅 **DevOps on AWS Specialization – Coursera**
-- 🏅 **Docker & Kubernetes: The Complete Guide – Udemy**
-- 🏅 **GitHub Actions CI/CD Certification – GitHub Learning Lab**
+- 🏅 **Java Fullstack – Wipro**
+- 🏅 **GitHub Foundations Certification – GitHub**
 - 🏅 **Linux Foundation**
 
 ---
@@ -220,10 +244,11 @@ I believe in **DevOps as culture**, not just a toolchain—where collaboration, 
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guntupallivasudeva&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guntupallivasudeva&layout=compact&theme=tokyonight)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guntupallivasudeva&show_icons=true&locale=en" alt="guntupallivasudeva" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guntupallivasudeva&" alt="guntupallivasudeva" />
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guntupallivasudeva&show_icons=true&locale=en&layout=compact" alt="guntupallivasudeva" /></p>
+-->
 ---
 
 ## 💼 Contact Me
@@ -231,27 +256,6 @@ I believe in **DevOps as culture**, not just a toolchain—where collaboration, 
 - 📧 Email: vasudevaguntupalli@gmail.com  
 - 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)  
 - 💬 LinkedIn: [linkedin.com/in/gvasudeva](https://www.linkedin.com/in/gvasudeva)  
-
----
-
-## 🎓 Education
-
-- 🎓 **B.Tech in Computer Science & Engineering**  
-  Institute: Anurag University, Hyderabad
-  Duration: [2021 – 2025]  
-  Relevant Coursework: Cloud Computing, DevOps, Operating Systems, Distributed Systems
-
----
-
-## 🧠 Fun Facts
-
-- 🌱 I’m currently learning:- **Devops & Cloud**
-- 👯 I’m looking to collaborate on:- **Devops Project as a Freelancer**
-- 🤔 I’m looking for help with:- **Industry Leading Project ideas**
-- 💬 Ask me about:- **Cloud**
-- ⚡ Fun fact:- **Never fall in love with anything till end u never forget the details**
-- 🛰️ Space documentaries and DevOps = my weekend joy.
-- 💡 Motto: *Automate the boring. Secure the critical. Scale the impactful.*
 
 ---
 
