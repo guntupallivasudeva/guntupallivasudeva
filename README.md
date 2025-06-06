@@ -53,7 +53,7 @@ I believe in **DevOps as culture**, not just a toolchain—where collaboration, 
 <a href="https://linkedin.com/in/gvasudeva" target="blank"><img align="center" src="https://api.iconify.design/logos:linkedin-icon.svg" alt="vasudeva guntupalli" height="30" width="40" /></a>
 <a href="https://medium.com/@vasudevaguntupalli" target="blank"><img align="center" src="https://api.iconify.design/logos:medium.svg" alt="guntupalli vasudeva" height="30" width="80" /></a>
 <a href="https://www.hackerrank.com/gvasudeva" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="vasudeva gutnupalli" height="30" width="40" /></a>
- <a href="mailto:vasudevaguntupalli@gmail.com" target="blank"><img align="center" src="https://api.iconify.design/logos:google-gmail.svg" alt="vasudeva gutnupalli" height="30" width="40" /></a>
+ <a href="mailto:vasudevaguntupalli.work@gmail.com" target="blank"><img align="center" src="https://api.iconify.design/logos:google-gmail.svg" alt="vasudeva gutnupalli" height="30" width="40" /></a>
 </p>
 
 ---
@@ -253,7 +253,7 @@ I believe in **DevOps as culture**, not just a toolchain—where collaboration, 
 
 ## 💼 Contact Me
 
-- 📧 Email: vasudevaguntupalli@gmail.com  
+- 📧 Email: vasudevaguntupalli.work@gmail.com  
 - 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)  
 - 💬 LinkedIn: [linkedin.com/in/gvasudeva](https://www.linkedin.com/in/gvasudeva)  
 
