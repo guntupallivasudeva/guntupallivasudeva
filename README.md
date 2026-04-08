@@ -21,7 +21,13 @@
 
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guntupallivasudeva" alt="guntupallivasudeva" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guntupallivasudeva" alt="guntupallivasudeva" /></a> </p> -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=guntupallivasudeva" alt="guntupallivasudeva" />
+  </a>
+</p>
+
 ---
 
 ## 🌟 Summary
@@ -244,11 +250,13 @@ I believe in **DevOps as culture**, not just a toolchain—where collaboration, 
 ---
 
 ## 📈 GitHub Stats
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guntupallivasudeva&show_icons=true&locale=en" alt="guntupallivasudeva" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guntupallivasudeva&" alt="guntupallivasudeva" />
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guntupallivasudeva&show_icons=true&locale=en&layout=compact" alt="guntupallivasudeva" /></p>
 -->
+ 
 ---
 
 ## 💼 Contact Me
