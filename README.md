@@ -262,7 +262,7 @@ I believe in **DevOps as culture**, not just a toolchain—where collaboration, 
 ## 💼 Contact Me
 
 - 📧 Email: vasudevaguntupalli.work@gmail.com  
-- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)  
+- 🌐 Portfolio: [https://vasudevaguntupalli.dev/](https://vasudevaguntupalli.dev/)
 - 💬 LinkedIn: [linkedin.com/in/gvasudeva](https://www.linkedin.com/in/gvasudeva)  
 
 ---
